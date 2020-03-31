@@ -1557,11 +1557,13 @@ Google map
 
 .features-title,
 .alt-features-title {
+  
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 400;
   font-size: 14px;
   color: #111;
+  margin-top: 10;
   margin: 16px 0 15px;
 }
 
