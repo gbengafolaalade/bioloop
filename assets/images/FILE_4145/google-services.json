@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1070340311676",
+    "firebase_url": "https://jidi-vidtest.firebaseio.com",
+    "project_id": "jidi-vidtest",
+    "storage_bucket": "jidi-vidtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070340311676:android:b30b79c6b6810f59e657f9",
+        "android_client_info": {
+          "package_name": "com.example.widget_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070340311676-38vionkltjk6orv7g3s0cn9lhcbk5pim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeU89bPEx-KEZEB1HH8LqyVoa-cgxyDMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070340311676-38vionkltjk6orv7g3s0cn9lhcbk5pim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
